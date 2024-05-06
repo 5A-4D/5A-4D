@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @5A-4D
+- 👋 Hi, I’m Zain
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python scripting 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
