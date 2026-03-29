@@ -5,7 +5,6 @@
 - ⚡ Fun fact: I enjoy video games
 
 
-
 # 📜 Certifications
 ## 🏆 Highlighted Certifications
 
@@ -14,7 +13,7 @@
 [![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-orange)](YOUR-LINK)
 [![Network+](https://img.shields.io/badge/Google-Cybersecurity-green)](YOUR-LINK)
 
-### 🔐 Cybersecurity & Offensive Security
+### 🔐 Cybersecurity
 - CompTIA Security+  
 - CompTIA CySA+  
 - CompTIA PenTest+  
@@ -27,7 +26,7 @@
 - CompTIA Network+  
 - LPI Linux Essentials  
 
-### 🏢 Governance, Risk & ITSM
+### 🏢 Governance & Risk
 - ITIL 4 Foundation  
 - FEMA National Incident Management System (NIMS)
 
