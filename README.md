@@ -4,14 +4,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy video games
 
+
+
+# 📜 Certifications
 ## 🏆 Highlighted Certifications
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](YOUR-LINK)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue)](YOUR-LINK)
 [![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-orange)](YOUR-LINK)
 [![Network+](https://img.shields.io/badge/Google-Cybersecurity-green)](YOUR-LINK)
-
-## 📜 Certifications
 
 ### 🔐 Cybersecurity & Offensive Security
 - CompTIA Security+  
