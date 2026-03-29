@@ -11,7 +11,7 @@
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](YOUR-LINK)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue)](YOUR-LINK)
 [![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-orange)](YOUR-LINK)
-[![Network+](https://img.shields.io/badge/Google-Cybersecurity-green)](YOUR-LINK)
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-green)](YOUR-LINK)
 
 ### 🔐 Cybersecurity
 - CompTIA Security+  
