@@ -6,6 +6,8 @@
 
 
 # 📜 Certifications
+
+
 ## 🏆 Highlighted Certifications
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](YOUR-LINK)
